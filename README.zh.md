@@ -1,6 +1,6 @@
 # vibe coding mcp 设计
 
-English | [中文](README.zh.md)
+[English](README.en.md) | 中文
 
 ## 概述
 围绕"只写文档，不写代码"的原则，设计一套工具来支持文档化工作流程，生成结构化的文档内容，并将这些内容提炼为结构化数据存储到数据库中。
